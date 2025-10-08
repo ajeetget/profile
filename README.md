@@ -1,10 +1,10 @@
-# 🌐 Animated Portfolio Website
+#  Ajeet Portfolio Website
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+Front-End Developer specialized in ReactJS, crafting fast, scalable, and responsive web applications with clean, efficient code and modern architecture for seamless digital experiences.
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗 [View Portfolio Live](https://vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/ajeetget/profile.git]
 cd your-repo-name
 ````
 
@@ -48,12 +48,9 @@ npm start
 npm run build
 ```
 
-## 📹 YouTube Tutorial
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+This project was created with ❤️ by [Ajeet](https:/vercel.app/).
+
